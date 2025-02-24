@@ -26,7 +26,7 @@ Chat Behavior Analysis is a sentiment and threat detection system that analyzes 
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/chat-behavior-analysis.git
+   git clone https://github.com/sonid617/Chat-Behaviour-Analysis.git
    cd chat-behavior-analysis
    ```
 2. Install dependencies:
