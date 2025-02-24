@@ -35,7 +35,7 @@ Chat Behavior Analysis is a sentiment and threat detection system that analyzes 
    ```
 3. Start the Flask server:
    ```sh
-   python app.py
+   python nlp_analyze.py
    ```
 4. Deploy the Chrome extension (optional):
    - Load the extension in Developer mode from `chrome-extension` folder.
