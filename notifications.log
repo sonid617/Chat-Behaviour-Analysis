@@ -1,0 +1,2853 @@
+Notification received: {'message_type': 'Threat Level 1', 'messages': ['I will kill you', 'I have work to do can you help me', 'Marathi’s', 'Madarchod', 'Hshhshshs', 'You are my friend', 'Oh no no I’m going starve you to the death', 'I’m not satisfied with this product', 'Bhai Mai tuje mar daluga sachi mai', 'Tuje mar daluga'], 'analysis': [{'behavior': 'non-friendly', 'message': 'I will kill you', 'sentiment': 'non-friendly'}, {'behavior': 'neutral', 'message': 'I have work to do can you help me', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Marathi’s', 'sentiment': 'neutral'}, {'behavior': 'non-friendly', 'message': 'Madarchod', 'sentiment': 'non-friendly'}, {'behavior': 'neutral', 'message': 'Hshhshshs', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'You are my friend', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Oh no no I’m going starve you to the death', 'sentiment': 'neutral'}, {'behavior': 'non-friendly', 'message': 'I’m not satisfied with this product', 'sentiment': 'non-friendly'}, {'behavior': 'non-friendly', 'message': 'Bhai Mai tuje mar daluga sachi mai', 'sentiment': 'non-friendly'}, {'behavior': 'non-friendly', 'message': 'Tuje mar daluga', 'sentiment': 'non-friendly'}]}
+Notification received: {'message_type': 'Threat Level 2', 'messages': ['Or circuit laga dena sirf', 'Naa', 'Khuttan wala likh le bhai', 'Ham bhi wohi likh rhe h', 'Khuttan ki hi likhni h', 'Apne me se ksi ne readings nai li thi usdin', 'Vo kal ke liye exp nai hua h kisi ka ml me', 'Tera ho jae to hame send kr dena'], 'analysis': [{'behavior': 'neutral', 'message': 'Or circuit laga dena sirf', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Naa', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Khuttan wala likh le bhai', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Ham bhi wohi likh rhe h', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Khuttan ki hi likhni h', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Apne me se ksi ne readings nai li thi usdin', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Vo kal ke liye exp nai hua h kisi ka ml me', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Tera ho jae to hame send kr dena', 'sentiment': 'neutral'}]}
+Notification received: {'message_type': 'Threat Level 2', 'messages': ['Or circuit laga dena sirf', 'Naa', 'Khuttan wala likh le bhai', 'Ham bhi wohi likh rhe h', 'Khuttan ki hi likhni h', 'Apne me se ksi ne readings nai li thi usdin', 'Vo kal ke liye exp nai hua h kisi ka ml me', 'Tera ho jae to hame send kr dena'], 'analysis': [{'behavior': 'neutral', 'message': 'Or circuit laga dena sirf', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Naa', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Khuttan wala likh le bhai', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Ham bhi wohi likh rhe h', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Khuttan ki hi likhni h', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Apne me se ksi ne readings nai li thi usdin', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Vo kal ke liye exp nai hua h kisi ka ml me', 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Tera ho jae to hame send kr dena', 'sentiment': 'neutral'}]}
+Notification received: {'message_type': 'Threat Level 2', 'messages': ['Ho', 'Hm', 'Hyyy', 'Q aj kal msg vagera kn', 'Kr rhe ho', 'Acha', 'Hyy', 'Abhi bhi bezy ho', 'Okkk', 'Hy', 'Fine chu tame Kem cho', 'Yaad j nhi krta', 'Bezy person', 'Ohhh', '', '', '', '', 'Kyare thayu aavu badhu ek dum', 'Me tamare q divse pan msg kryu hatu tame kidu jamva betho chu pachi kris pachi msg j nhi kryu'], 'analysis': [{'behavior': 'neutral', 'message': 'Ho', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Hm', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Hyyy', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Q aj kal msg vagera kn', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Kr rhe ho', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Acha', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Hyy', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Abhi bhi bezy ho', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Okkk', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Hy', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Fine chu tame Kem cho', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Yaad j nhi krta', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Bezy person', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Ohhh', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': '', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': '', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': '', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': '', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Kyare thayu aavu badhu ek dum', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'non-friendly', 'message': 'Me tamare q divse pan msg kryu hatu tame kidu jamva betho chu pachi kris pachi msg j nhi kryu', 'non_friendly_words': [], 'sentiment': 'non-friendly'}]}
+Notification received: {'message_type': 'Threat Level 1', 'messages': ['I will kill you', 'I have work to do can you help me', 'Marathi’s', 'Madarchod', 'Hshhshshs', 'You are my friend', 'Oh no no I’m going starve you to the death', 'I’m not satisfied with this product', 'Bhai Mai tuje mar daluga sachi mai', 'Tuje mar daluga'], 'analysis': [{'behavior': 'non-friendly', 'message': 'I will kill you', 'non_friendly_words': ['kill'], 'sentiment': 'non-friendly'}, {'behavior': 'neutral', 'message': 'I have work to do can you help me', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Marathi’s', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'non-friendly', 'message': 'Madarchod', 'non_friendly_words': ['madarchod'], 'sentiment': 'non-friendly'}, {'behavior': 'neutral', 'message': 'Hshhshshs', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'You are my friend', 'non_friendly_words': [], 'sentiment': 'neutral'}, {'behavior': 'neutral', 'message': 'Oh no no I’m going starve you to the death', 'non_friendly_words': ['death'], 'sentiment': 'neutral'}, {'behavior': 'non-friendly', 'message': 'I’m not satisfied with this product', 'non_friendly_words': [], 'sentiment': 'non-friendly'}, {'behavior': 'non-friendly', 'message': 'Bhai Mai tuje mar daluga sachi mai', 'non_friendly_words': ['bhai', 'mai', 'tuje', 'mar', 'daluga', 'sachi', 'mai'], 'sentiment': 'non-friendly'}, {'behavior': 'non-friendly', 'message': 'Tuje mar daluga', 'non_friendly_words': ['tuje', 'mar', 'daluga'], 'sentiment': 'non-friendly'}], 'non_friendly_words': ['kill', 'madarchod', 'death', 'bhai', 'mai', 'tuje', 'mar', 'daluga', 'sachi', 'mai', 'tuje', 'mar', 'daluga']}
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 2",
+    "messages": [],
+    "analysis": [],
+    "non_friendly_words": []
+}
+
+{
+    "message_type": "Threat Level 2",
+    "messages": [
+        "Crush",
+        "Ham i love abhi but crush to ap pr bachpan se he",
+        "But he to sahi na",
+        "Hm",
+        "Both",
+        "Both yr",
+        "Sex nhi kr sakti yr",
+        "Means",
+        "But real me nhi only in mobile",
+        "Samjo yr",
+        "Sex jaruri he ky to"
+    ],
+    "analysis": [
+        {
+            "behavior": "neutral",
+            "message": "Crush",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "friendly",
+            "message": "Ham i love abhi but crush to ap pr bachpan se he",
+            "non_friendly_words": [],
+            "sentiment": "friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "But he to sahi na",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hm",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Both",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Both yr",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Sex nhi kr sakti yr",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Means",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "But real me nhi only in mobile",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Samjo yr",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Sex jaruri he ky to",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        }
+    ],
+    "non_friendly_words": []
+}
+
+{
+    "message_type": "Threat Level 2",
+    "messages": [
+        "Crush",
+        "Ham i love abhi but crush to ap pr bachpan se he",
+        "But he to sahi na",
+        "Hm",
+        "Both",
+        "Both yr",
+        "Sex nhi kr sakti yr",
+        "Means",
+        "But real me nhi only in mobile",
+        "Samjo yr",
+        "Sex jaruri he ky to"
+    ],
+    "analysis": [
+        {
+            "behavior": "neutral",
+            "message": "Crush",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "friendly",
+            "message": "Ham i love abhi but crush to ap pr bachpan se he",
+            "non_friendly_words": [],
+            "sentiment": "friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "But he to sahi na",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hm",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Both",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Both yr",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Sex nhi kr sakti yr",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Means",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "But real me nhi only in mobile",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Samjo yr",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Sex jaruri he ky to",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        }
+    ],
+    "non_friendly_words": []
+}
+
+{
+    "message_type": "Threat Level 2",
+    "messages": [],
+    "analysis": [],
+    "non_friendly_words": []
+}
+
+{
+    "message_type": "Threat Level 2",
+    "messages": [],
+    "analysis": [],
+    "non_friendly_words": []
+}
+
+{
+    "message_type": "Threat Level 2",
+    "messages": [
+        "Updated results aagye",
+        "Disaster management mai as sir said IA marks ab jo hai so hai vapas kuch bolne ka matlab hai nahi contact krne gaye toh gussa hojayege coz kuch ek row uper shift hogaye h",
+        "Accept it ab jo hai \n\n\n\nBy manas boi",
+        "Aare ye kya baat h",
+        "Bhai usne itne gadbad ki haina \n\nPehle end sem ke marks mai ek row shift hogaye voh sahi kardiye ab and aaj jake baat ki sir se toh pata chala ia ke bhi ek row shift hogaye h sabke and ab ia and mid ka toh kuch kar nahi sakte",
+        "",
+        "N voh shifted row wale list as final IA marks krke bhej diye",
+        "IA ki row shift toh exam cell waalo ne ki hai",
+        "sir ke side se sahi hai"
+    ],
+    "analysis": [
+        {
+            "behavior": "neutral",
+            "message": "Updated results aagye",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Disaster management mai as sir said IA marks ab jo hai so hai vapas kuch bolne ka matlab hai nahi contact krne gaye toh gussa hojayege coz kuch ek row uper shift hogaye h",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Accept it ab jo hai \n\n\n\nBy manas boi",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Aare ye kya baat h",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Bhai usne itne gadbad ki haina \n\nPehle end sem ke marks mai ek row shift hogaye voh sahi kardiye ab and aaj jake baat ki sir se toh pata chala ia ke bhi ek row shift hogaye h sabke and ab ia and mid ka toh kuch kar nahi sakte",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "N voh shifted row wale list as final IA marks krke bhej diye",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "IA ki row shift toh exam cell waalo ne ki hai",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "sir ke side se sahi hai",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        }
+    ],
+    "non_friendly_words": []
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 2",
+    "messages": [],
+    "analysis": [],
+    "non_friendly_words": []
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
+{
+    "message_type": "Threat Level 1",
+    "messages": [
+        "I will kill you",
+        "I have work to do can you help me",
+        "Marathi\u2019s",
+        "Madarchod",
+        "Hshhshshs",
+        "You are my friend",
+        "Oh no no I\u2019m going starve you to the death",
+        "I\u2019m not satisfied with this product",
+        "Bhai Mai tuje mar daluga sachi mai",
+        "Tuje mar daluga",
+        "I will tear down your clothes and fuck you so much",
+        "I will tear down your clothes and fuck you so much baby girl"
+    ],
+    "analysis": [
+        {
+            "behavior": "non-friendly",
+            "message": "I will kill you",
+            "non_friendly_words": [
+                "kill"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "I have work to do can you help me",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Marathi\u2019s",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Madarchod",
+            "non_friendly_words": [
+                "madarchod"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Hshhshshs",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "You are my friend",
+            "non_friendly_words": [],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "neutral",
+            "message": "Oh no no I\u2019m going starve you to the death",
+            "non_friendly_words": [
+                "death"
+            ],
+            "sentiment": "neutral"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I\u2019m not satisfied with this product",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Bhai Mai tuje mar daluga sachi mai",
+            "non_friendly_words": [
+                "bhai",
+                "daluga",
+                "mai",
+                "mai",
+                "mar",
+                "sachi",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "Tuje mar daluga",
+            "non_friendly_words": [
+                "daluga",
+                "mar",
+                "tuje"
+            ],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        },
+        {
+            "behavior": "non-friendly",
+            "message": "I will tear down your clothes and fuck you so much baby girl",
+            "non_friendly_words": [],
+            "sentiment": "non-friendly"
+        }
+    ],
+    "non_friendly_words": [
+        "bhai",
+        "daluga",
+        "daluga",
+        "death",
+        "kill",
+        "madarchod",
+        "mai",
+        "mai",
+        "mar",
+        "mar",
+        "sachi",
+        "tuje",
+        "tuje"
+    ]
+}
+
