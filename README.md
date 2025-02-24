@@ -70,5 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 - **Developer:** Dishank Soni
-- **Email:** your.email@example.com
-- **GitHub:** [your-repo](https://github.com/your-repo)
+- **Email:** Dishanksoni627@gmail.com
